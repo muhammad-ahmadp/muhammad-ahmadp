@@ -8,12 +8,11 @@
 
 ## About Me
 
-I'm a software engineer passionate about creating clean, scalable applications. I specialize in frontend development with modern technologies and expanding my expertise in backend systems.
+I'm a Junior software engineer passionate about creating clean, scalable applications. I specialize in frontend development with modern technologies and expanding my expertise in backend systems.
 
 - 🔭 Currently working on **full-stack web applications**
 - 🌱 Learning **Spring Boot and advanced system design**
 - 💻 Building with **HTML5, CSS3, Tailwind, JavaScript, React, Java**
-- 🎯 Goal: **Software Engineer at top tech companies**
 - 👯 Open to **collaboration on innovative projects**
 - 💼 Available for **Junior SE roles, freelance work, and internships**
 
