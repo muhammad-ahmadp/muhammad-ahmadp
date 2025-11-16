@@ -1,4 +1,4 @@
-![logo](https://github.com/muhammad-ahmadp/muhammad-ahmadp/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/muhammad-ahmadp/muhammad-ahmadp/https://github.com/muhammad-ahmadp/muhammad-ahmadp/blob/main/Black%20Minimalist%20Corporate%20Business%20Personal%20Profile%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi, I'm Muhammad Ahmad 👋</h1>
 <h3 align="center">Junior Software Engineer | Building scalable, production-ready applications</h3>
