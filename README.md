@@ -6,21 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ahmadp&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-ahmadp" /> </p>
 
-## About Me
-
-I'm a Junior software engineer passionate about creating clean, scalable applications. I specialize in frontend development with modern technologies and expanding my expertise in backend systems.
-
 - 🔭 Currently working on **full-stack web applications**
 - 🌱 Learning **Spring Boot and advanced system design**
 - 💻 Building with **HTML5, CSS3, Tailwind, JavaScript, React, Java**
 - 👯 Open to **collaboration on innovative projects**
 - 💼 Available for **Junior SE roles, freelance work, and internships**
-
-## Tech Stack
-
-**Frontend:** HTML5 • CSS3 • Tailwind CSS • JavaScript • React  
-**Backend:** Java • OOP • System Design  
-**Tools:** Git • GitHub • VS Code • Netlify
 
 ## Get In Touch
 
