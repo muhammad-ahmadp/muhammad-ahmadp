@@ -8,9 +8,7 @@
 
 - 🔭 Currently working on **full-stack web applications**
 - 🌱 Learning **Spring Boot and advanced system design**
-- 💻 Building with **HTML5, CSS3, Tailwind, JavaScript, React, Java**
 - 👯 Open to **collaboration on innovative projects**
-- 💼 Available for **Junior SE roles, freelance work, and internships**
 
 ## Get In Touch
 
