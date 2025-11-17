@@ -1,4 +1,4 @@
-![logo](https://github.com/muhammad-ahmadp/muhammad-ahmadp/blob/main/Black%20Minimalist%20Corporate%20Business%20Personal%20Profile%20LinkedIn%20Banner%20(2).png)
+![logo](https://github.com/muhammad-ahmadp/muhammad-ahmadp/blob/main/github.gif)
 
 <h1 align="center">Hi, I'm Muhammad Ahmad 👋</h1>
 <h3 align="center">Junior Software Engineer | Building scalable, production-ready applications</h3>
