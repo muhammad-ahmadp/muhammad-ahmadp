@@ -9,11 +9,8 @@
 - 🔭 Currently working on **full-stack web applications**
 - 🌱 Learning **Spring Boot and advanced system design**
 - 👯 Open to **collaboration on innovative projects**
-
-## Get In Touch
-
-- 📫 Email: **muhammadahmadseng@gmail.com**
-- 💼 Let's build something impactful together!
+- 📫 How to reach me **muhammadahmadseng@gmail.com**
+- ⚡ Fun fact I am Funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
