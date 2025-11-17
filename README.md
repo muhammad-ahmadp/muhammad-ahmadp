@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">Junior Software Engineer | Building scalable, production-ready applications</h3>
-<img align = 'right' alt = 'coding' width = '500' src = 'https://github.com/muhammad-ahmadp/muhammad-ahmadp/blob/main/coding.gif'>
+<img align = 'right' alt = 'coding' width = '300' src = 'https://github.com/muhammad-ahmadp/muhammad-ahmadp/blob/main/coding.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ahmadp&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-ahmadp" /> </p>
 
