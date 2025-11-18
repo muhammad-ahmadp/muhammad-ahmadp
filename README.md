@@ -12,9 +12,9 @@
 
 - 👯 Open to **collaboration on innovative projects**
 
-- 📫 How to reach me **muhammadahmadseng@gmail.com**
+- 📫 Reach me at **muhammadahmadseng@gmail.com**
 
-- ⚡ Fun fact I am Funny
+- ⚡ Fun fact: I code day and night to achieve my dreams!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-ahmadcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ahmadcs" height="30" width="40" /></a>
