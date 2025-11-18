@@ -2,16 +2,19 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">Junior Software Engineer | Building scalable, production-ready applications</h3>
-<img align = 'right' alt = 'coding' width = '450' src = 'https://github.com/muhammad-ahmadp/muhammad-ahmadp/blob/main/coding.gif'>
+<img align = 'right' alt = 'coding' width = '430' src = 'https://github.com/muhammad-ahmadp/muhammad-ahmadp/blob/main/coding.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ahmadp&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-ahmadp" /> </p>
 
 - 🔭 Currently working on **full-stack web applications**
-- 🌱 Learning **Spring Boot and advanced system design**
-- 👯 Open to **collaboration on innovative projects**
-- 📫 How to reach me **muhammadahmadseng@gmail.com**
-- ⚡ Fun fact I am Funny
 
+- 🌱 Learning **Spring Boot and advanced system design**
+
+- 👯 Open to **collaboration on innovative projects**
+
+- 📫 How to reach me **muhammadahmadseng@gmail.com**
+
+- ⚡ Fun fact I am Funny
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-ahmadcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ahmadcs" height="30" width="40" /></a>
