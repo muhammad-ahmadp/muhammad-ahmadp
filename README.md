@@ -59,7 +59,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-ahmadp&show_icons=true&locale=en&theme=radical" alt="muhammad-ahmadp" /></p>
 
-<p align="center">⭐ Open to opportunities and collaboration!</p>
 <!-- Snake Game Repo View -->
 
 <div align="center">
