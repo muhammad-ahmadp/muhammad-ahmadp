@@ -53,11 +53,6 @@
   </a>
 </p>
 
-## GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-ahmadp&show_icons=true&locale=en&layout=compact&theme=radical" alt="muhammad-ahmadp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-ahmadp&show_icons=true&locale=en&theme=radical" alt="muhammad-ahmadp" /></p>
 
 <!-- Snake Game Repo View -->
 
