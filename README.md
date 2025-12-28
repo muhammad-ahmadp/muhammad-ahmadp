@@ -1,7 +1,7 @@
 ![logo](https://github.com/muhammad-ahmadp/muhammad-ahmadp/blob/main/github.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">Aspiring Software Engineer | Frontend & Java Developer</h3>
+<h3 align="center">Software Developer | Building Scalable Web Apps & Logic-Driven Solutions</h3>
 <img align = 'right' alt = 'coding' width = '430' src = 'https://github.com/muhammad-ahmadp/muhammad-ahmadp/blob/main/coding.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ahmadp&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-ahmadp" /> </p>
