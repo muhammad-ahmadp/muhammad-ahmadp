@@ -53,12 +53,6 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Status:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-ahmadp&show_icons=true&theme=radical" alt="Muhammad Ahmad's GitHub Stats" />
-</p>
-
-
 
 <!-- Snake Game Repo View -->
 
