@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on **full-stack web applications**
 
-- 🌱 Learning **Node.js Express.js and Database**
+- 🌱 Learning **Backend Development**
 
 - 👯 Open to **collaboration on innovative projects**
 
