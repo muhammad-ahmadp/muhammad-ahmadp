@@ -58,6 +58,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="44" height="44"/>
       <br>Java
     </td>
+    <td align="center" width="88">
+      <!-- VS Code -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="44" height="44"/>
+      <br>VS Code
+    </td>
   </tr>
 </table>
 </div>
