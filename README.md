@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on **full-stack web applications**
 
-- 🌱 Learning **Spring Boot and advanced system design**
+- 🌱 Learning **Node.js Express.js and Database**
 
 - 👯 Open to **collaboration on innovative projects**
 
