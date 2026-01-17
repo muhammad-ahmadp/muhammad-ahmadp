@@ -54,37 +54,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" height="44"/>
       <br>Git
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="88">
+     <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="44" height="44"/>
       <br>Java
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="44" height="44"/>
-      <br>Node.js
-    </td>
-    <td align="center" width="88">
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="44" height="44"/>
-      <br>Express.js
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="44" height="44"/>
-      <br>MongoDB
-    </td>
-    <td align="center" width="88">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="44" height="44"/>
-      <br>Postman
-    </td>
-    <td align="center" width="88">
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="44" height="44"/>
-      <br>GitHub
-    </td>
-    <td align="center" width="88">
-      <!-- VS Code -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="44" height="44"/>
-      <br>VS Code
     </td>
   </tr>
 </table>
