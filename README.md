@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on **full-stack web applications**
 
-- 🌱 Learning **Backend Development**
+- 🌱 Learning **AI Engineering**
 
 - 👯 Open to **collaboration on innovative projects**
 
@@ -47,22 +47,59 @@
       <br>React
     </td>
     <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="44" height="44"/>
+      <br>Node.js
+    </td>
+   <td align="center" width="88">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="44"/>
+  <br>Express
+</td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="44" height="44"/>
+      <br>MongoDB
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="44" height="44"/>
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" height="44"/>
       <br>Python
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="44" height="44"/>
+      <br>Java
     </td>
     <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" height="44"/>
       <br>Git
     </td>
-     <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="44" height="44"/>
-      <br>Java
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="44" height="44"/>
+      <br>GitHub
     </td>
     <td align="center" width="88">
-      <!-- VS Code -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="44" height="44"/>
+      <br>Postman
+    </td>
+    <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="44" height="44"/>
       <br>VS Code
     </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="44" height="44"/>
+      <br>NPM
+    </td>
+    <td align="center" width="88">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="44"/>
+  <br>Claude
+</td>
+    <td align="center" width="88">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" height="44"/>
+  <br>JWT
+</td>
   </tr>
 </table>
 </div>
@@ -75,7 +112,7 @@
 </p>
 
 <div align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Frontend+Engineer;Building+Responsive+Web+Apps;Clean+Code+Focused" alt="Typing Animation" /> 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Software+Developer;MERN+Stack+Developer;Frontend+Engineer;Full+Stack+Developer;Building+Scalable+Web+Apps;Clean+Code+Focused" alt="Typing Animation" /> 
 </div>
 
 
