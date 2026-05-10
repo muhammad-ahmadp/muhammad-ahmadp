@@ -106,9 +106,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="44" height="44"/>
       <br>NPM
     </td>
-    <td align="center" width="88">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="44"/>
-  <br>Claude
+  <td align="center" width="88">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="44" height="44"/>
+  <br>TypeScript
 </td>
     <td align="center" width="88">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" height="44"/>
