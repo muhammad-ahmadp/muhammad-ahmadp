@@ -78,10 +78,10 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" height="44"/>
-      <br>Python
-    </td>
+   <td align="center" width="88">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="44" height="44"/>
+  <br>Next.js
+</td>
     <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="44" height="44"/>
       <br>Java
