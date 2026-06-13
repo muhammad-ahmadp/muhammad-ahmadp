@@ -115,6 +115,32 @@
   <br>JWT
 </td>
   </tr>
+  <tr>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="44" height="44"/>
+      <br>React Native
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" alt="Expo" width="44" height="44"/>
+      <br>Expo
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="44" height="44"/>
+      <br>Android
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" width="44" height="44"/>
+      <br>iOS
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="44" height="44"/>
+      <br>Firebase
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="44" height="44"/>
+      <br>PostgreSQL
+    </td>
+  </tr>
 </table>
 </div>
 
@@ -124,9 +150,8 @@
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=muhammad-ahmadp&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
-
 <div align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Software+Developer;MERN+Stack+Developer;Frontend+Engineer;Full+Stack+Developer;Building+Scalable+Web+Apps;Clean+Code+Focused" alt="Typing Animation" /> 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Full-Stack+%26+Mobile+Engineer;I+build+what+others+only+plan;Web+%7C+iOS+%7C+Android;From+idea+to+production;Clean+code.+Real+products.+Zero+excuses." alt="Typing Animation" /> 
 </div>
 
 
