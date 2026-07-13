@@ -137,6 +137,18 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="44" height="44"/>
       <br>PostgreSQL
     </td>
+    <td align="center" width="88">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="44" height="44"/>
+  <br>Docker
+</td>
+    <td align="center" width="88">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="44" height="44"/>
+  <br>Redis
+</td>
+    <td align="center" width="88">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="44" height="44"/>
+  <br>AWS
+</td>
   </tr>
 </table>
 </div>
