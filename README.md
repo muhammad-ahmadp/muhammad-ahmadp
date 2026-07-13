@@ -1,41 +1,29 @@
-![logo](https://github.com/muhammad-ahmadp/muhammad-ahmadp/blob/main/github.gif)
-
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<img align = 'right' alt = 'coding' width = '430' src = 'https://github.com/muhammad-ahmadp/muhammad-ahmadp/blob/main/coding.gif'>
+<h3 align="center">Full-Stack & Mobile Engineer · Web · iOS · Android · Backend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ahmadp&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-ahmadp" /> </p>
+<br/>
 
-- 🔭 Currently working on **full-stack web applications**
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-ahmadcs" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/this.ahmad.tech/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:muhammadahmadseng@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🌱 Learning **AI Engineering**
+<br/>
 
-- 👯 Open to **collaboration on innovative projects**
+---
 
-- 📫 Reach me at **muhammadahmadseng@gmail.com**
+### 🛠️ Tech Stack
 
-- ⚡ Fun fact: I code day and night to achieve my dreams!
-<h3 align="left">Connect with me:</h3>
-<table>
-  <tr>
-    <td>
-      <a href="https://linkedin.com/in/muhammad-ahmadcs" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://fb.com/themrcoder" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://instagram.com/developer_ahmad11" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-### My stack and tools :
+<br/>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -142,21 +130,4 @@
     </td>
   </tr>
 </table>
-</div>
-
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=muhammad-ahmadp&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
-</p>
-<div align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Full-Stack+%26+Mobile+Engineer;I+build+what+others+only+plan;Web+%7C+iOS+%7C+Android;From+idea+to+production;Clean+code.+Real+products.+Zero+excuses." alt="Typing Animation" /> 
-</div>
-
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
