@@ -12,12 +12,21 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:muhammadahmadseng@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:muhammadahmadseng@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </p>
 
 <br/>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Full-Stack & Mobile Engineer
+- 🚀 Building scalable web and mobile applications
+- 🌱 Currently learning Docker & AWS
+- 🎯 Focused on Software Engineering, System Design & Cloud
 
 ---
 
